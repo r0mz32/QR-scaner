@@ -14,3 +14,8 @@ Blocks with information from passport:
 
 Blocks with information from passport:
 ![](Images/date_of_birth.png)
+
+
+## Authors
+- [Roman Yushchev](https://github.com/r0mz32)
+- [Ivan Solodovnikov](https://github.com/vagagabun)
